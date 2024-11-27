@@ -20,3 +20,9 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Contact
 
 For any questions or suggestions, please open an issue or contact the repository owner.
+
+## Support
+
+This project is supported by [CuteTarantula](https://cutetarantula.com).
+
+We are a UK-based consultancy specializing in Ethereum and blockchain solutions. Whether you have an exciting project idea or need expert guidance on any of our supported tools, we’re here to help. Don’t hesitate to reach out, we’d love to collaborate with you!
