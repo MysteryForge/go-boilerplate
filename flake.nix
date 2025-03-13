@@ -24,7 +24,7 @@
             pkgs.delve
             pkgs.gcc
             pkgs.gh
-            pkgs.go_1_23
+            pkgs.go_1_24
             pkgs.gotools
             pkgs.gopls
             pkgs.go-outline
